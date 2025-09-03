@@ -2,7 +2,9 @@
 
 Welcome!  
 
-This repository showcases my **data analytics projects for small and medium businesses (SMBs)**. These businesses **lack advanced technical infrastructure**, so projects focus on **actionable insights using accessible tools and lightweight workflows**.
+This repository showcases my data analytics projects for businesses with **limited or no technical infrastructure**. For example, these businesses typically use **Excel or Google Sheets** and free or easy-to-use data visualization tools, rather than complex databases or automated pipelines
+
+These projects focus on delivering actionable insights using simple, accessible tools and lightweight workflows. 
 
 ## 🔗 Let’s Connect  
 
