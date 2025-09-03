@@ -2,9 +2,9 @@
 
 Welcome!  
 
-This repository showcases my data analytics projects for businesses with **limited or no technical infrastructure**. For example, these businesses typically use **Excel or Google Sheets** and free or easy-to-use data visualization tools, rather than complex databases or automated pipelines
+This repository showcases my data analytics projects for businesses with **limited or no technical infrastructure**. These organizations often rely on **Excel, Google Sheets, or lightweight tools (like SQLite3, Python scripts, or Metabase)** instead of advanced systems such as data warehouses, automated pipelines, or enterprise dashboards.
 
-These projects focus on delivering actionable insights using simple, accessible tools and lightweight workflows. 
+My goal is to show that even with basic, affordable tools, businesses can still uncover valuable insights and make data-driven decisions.
 
 ## 🔗 Let’s Connect  
 
@@ -17,25 +17,9 @@ If my work was helpful or inspiring, feel free to connect, follow, or support:
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/) 
 
 ## 📚 Table of Contents
-- [Tech / HR](#tech-hr)
 - [Retail & E-commerce](#retail-e-commerce)
 - [Health & Wellness](#health-wellness)
 - [Entertainment & Media](#entertainment-media)
-
-<a name="tech-hr"></a>
-## 💼 Tech / HR
-
-### **[Tech Layoffs Data Cleaning (SQL)](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
-**Goal:** Clean and prepare tech layoffs data for analysis to support HR decision-making.  
-**Tools:** SQL  
-**Methodology:** Data cleaning, validation, exploratory analysis  
-**[Project Link](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
-
-### **[Tech Layoffs Tableau Dashboard](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
-**Goal:** Visualize trends in tech layoffs and provide actionable insights.  
-**Tools:** Tableau  
-**Methodology:** Dashboard design, KPI analysis, trend visualization  
-**[Project Link](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
 
 
 <a name="retail-e-commerce"></a>
