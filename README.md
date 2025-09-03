@@ -15,10 +15,10 @@ If my work was helpful or inspiring, feel free to connect, follow, or support:
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/) 
 
 ## 📚 Table of Contents
-- [💼 Tech / HR](#tech--hr)
-- [🛍️ Retail & E-commerce](#retail--e-commerce)
-- [🧠 Health & Wellness](#health--wellness)
-- [🎵 Entertainment & Media](#entertainment--media)
+- [Tech / HR](#tech-hr)
+- [Retail & E-commerce](#retail-e-commerce)
+- [Health & Wellness](#health-wellness)
+- [Entertainment & Media](#entertainment-media)
 
 
 ## 💼 Tech / HR
