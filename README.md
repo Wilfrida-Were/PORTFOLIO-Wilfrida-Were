@@ -20,7 +20,7 @@ If my work was helpful or inspiring, feel free to connect, follow, or support:
 - [Health & Wellness](#health-wellness)
 - [Entertainment & Media](#entertainment-media)
 
-
+<a name="tech-hr"></a>
 ## 💼 Tech / HR
 
 ### **[Tech Layoffs Data Cleaning (SQL)](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
@@ -36,6 +36,7 @@ If my work was helpful or inspiring, feel free to connect, follow, or support:
 **[Project Link](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
 
 
+<a name="retail-ecommerce"></a>
 ## 🛍️ Retail & E-commerce
 
 ### **[Retail Sales EDA (SQL)](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-SQL/blob/main/README.md)**
@@ -57,6 +58,7 @@ If my work was helpful or inspiring, feel free to connect, follow, or support:
 **[Project Link](https://github.com/Wilfrida-Were/Market-Basket-Analysis/blob/main/README.md)**
 
 
+<a name="health-wellness"></a>
 ## 🧠 Health & Wellness
 
 ### **[Mental Health EDA (Python)](https://github.com/Wilfrida-Were/Mental-Health-EDA/blob/main/README.md)**
@@ -66,6 +68,7 @@ If my work was helpful or inspiring, feel free to connect, follow, or support:
 **[Project Link](https://github.com/Wilfrida-Were/Mental-Health-EDA/blob/main/README.md)**
 
 
+<a name="entertainment-media"></a>
 ## 🎵 Entertainment & Media
 
 ### **[Spotify Data 2023 EDA](https://github.com/Wilfrida-Were/Spotify-data-2023-EDA/blob/main/README.md)**
