@@ -4,13 +4,21 @@ Welcome!
 
 This repository showcases my **data analytics projects for small and medium businesses (SMBs)**. These businesses **lack advanced technical infrastructure**, so projects focus on **actionable insights using accessible tools and lightweight workflows**.
 
+## 🔗 Let’s Connect  
+
+If my work was helpful or inspiring, feel free to connect, follow, or support:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/wilfridawere/)  
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=google-chrome)](https://www.wilfridawere.com/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=flat&logo=kaggle)](https://kaggle.com/wilfridawere)  
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Wilfrida-Were)  
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/) 
 
 ## 📚 Table of Contents
-- [💼 Tech / HR](#💼-tech--hr)
-- [🛍️ Retail & E-commerce](#🛍️-retail--e-commerce)
-- [🧠 Health & Wellness](#🧠-health--wellness)
-- [🎵 Entertainment & Media](#🎵-entertainment--media)
-- [🔗 Let’s Connect](#🔗-lets-connect)
+- [💼 Tech / HR](#tech--hr)
+- [🛍️ Retail & E-commerce](#retail--e-commerce)
+- [🧠 Health & Wellness](#health--wellness)
+- [🎵 Entertainment & Media](#entertainment--media)
 
 
 ## 💼 Tech / HR
@@ -66,15 +74,6 @@ This repository showcases my **data analytics projects for small and medium busi
 **Methodology:** Data cleaning, EDA, visualization, trend analysis  
 **[Project Link](https://github.com/Wilfrida-Were/Spotify-data-2023-EDA/blob/main/README.md)** 
 
-
-## 🔗 Let’s Connect  
-
-If my work was helpful or inspiring, feel free to connect, follow, or support:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/wilfridawere/)  
-[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=google-chrome)](https://www.wilfridawere.com/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=flat&logo=kaggle)](https://kaggle.com/wilfridawere)  
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Wilfrida-Were)  
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/)  
+ 
 
 
