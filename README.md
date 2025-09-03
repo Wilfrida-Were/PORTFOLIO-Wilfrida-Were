@@ -2,7 +2,7 @@
 
 Welcome!  
 
-This repository showcases my data analytics projects for businesses with **limited or no technical infrastructure**. These organizations often rely on **Excel, Google Sheets, or lightweight tools (like SQLite3, Python scripts, or Metabase)** instead of pricey tools and advanced systems such as data warehouses, automated pipelines, or enterprise dashboards.
+This repository showcases my data analytics projects for businesses with **limited or no technical infrastructure**. These organizations often rely on **Excel, Google Sheets, or lightweight tools (like SQLite3, Python scripts, or Metabase)** instead of costly tools and advanced systems such as data warehouses, automated pipelines, or enterprise dashboards.
 
 My goal is to show that even with basic, affordable tools, businesses can still uncover valuable insights and make data-driven decisions.
 
