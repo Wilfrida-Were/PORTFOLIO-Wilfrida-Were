@@ -1,30 +1,43 @@
-# 📊 Wilfrida Were – Portfolio - Limited Tech Resources
+# 📊 Wilfrida Were – Portfolio
 
 Welcome!  
 
-This repository showcases my data analytics projects for businesses with limited or no technical infrastructure. These organizations typically rely on **basic, affordable tools** or lightweight workflows rather than costly systems like data warehouses, automated ETL pipelines, or enterprise BI platforms.
+This is a curated hub of my data and AI projects, organized by industry. Each case study is designed to show how businesses, regardless of technical capacity can leverage data to drive smarter decisions.
 
-For example, these businesses might use:
+You'll find:
 
-- **Excel / Google Sheets** – Data entry, analysis, and simple dashboards
-- **SQLite3** – Lightweight database for small datasets
-- **Python scripts** – Automating repetitive tasks or quick analyses
-- **BI tools** – Metabase (open-source, free), Looker for easy dashboards and basic automation
+- Projects built with **simple, accessible tools** for teams with limited resources  
+  👉 The goal is to demonstrate that even with minimal resources, businesses can uncover valuable insights and take strategic action through data.
 
-👉 The goal is to demonstrate that even with **minimal resources**, businesses can still uncover valuable insights and make smart, data-driven decisions.
+- Projects powered by **enterprise-level solutions** for teams with deeper tech infrastructure  
+  👉 The goal is to deliver insights **efficiently, securely, and at scale** for organizations that support complex data systems.
+
+## 💬 Let’s Collaborate
+
+If you find a project that resonates with your business, team, or learning goals, feel free to explore, fork, or reach out. I welcome feedback, questions, and collaboration opportunities.
+
+Whether you're a founder, analyst, or fellow builder, I’d love to hear how these insights could support your work.
 
 ## 🔗 Let’s Connect  
 
-If my work was helpful or inspiring, feel free to connect, follow, or support:  
+Feel free to connect, follow, or support:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/wilfridawere/)  
+
+[![Twitter](https://img.shields.io/badge/X-Follow-black?style=flat&logo=twitter)](https://x.com/wilfridawere)  
+
 [![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=google-chrome)](https://www.wilfridawere.com/)  
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=flat&logo=kaggle)](https://kaggle.com/wilfridawere)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Wilfrida-Were)  
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/) 
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/)
+
 
 ## 📚 Table of Contents
 - [Retail & E-commerce](#retail-e-commerce)
+- [HR & Workforce](#hr-workforce)
 - [Health & Wellness](#health-wellness)
 - [Entertainment & Media](#entertainment-media)
 
@@ -44,11 +57,21 @@ If my work was helpful or inspiring, feel free to connect, follow, or support:
 - **Methodology:** EDA, data cleaning, visualization using Matplotlib & Seaborn  
 - **[Project Link](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)** 
 
-### **[Market Basket Analysis](https://github.com/Wilfrida-Were/Market-Basket-Analysis/blob/main/README.md)**
-- **Goal:** Identify product purchase patterns and generate recommendations.  
-- **Tools:** Python  
-- **Methodology:** Association rule mining, pattern detection, customer behavior analysis  
-- **[Project Link](https://github.com/Wilfrida-Were/Market-Basket-Analysis/blob/main/README.md)**
+<a name="hr-workforce"></a>
+## 💼 HR & Workforce
+
+### **[Tech Layoffs Data Cleaning (SQL)](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
+- **Goal:** Clean and prepare tech layoffs data for analysis to support HR decision-making.  
+- **Tools:** SQL  
+- **Methodology:** Data cleaning, validation, exploratory analysis  
+- **[Project Link](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
+
+### **[Tech Layoffs Tableau Dashboard](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
+- **Goal:** Visualize trends in tech layoffs and provide actionable insights.  
+- **Tools:** Tableau  
+- **Note:** Built with **Tableau Public**, where data refresh is manual. In business environments, Tableau Desktop/Online connects directly to databases or warehouses for **automated, real-time updates**.  
+- **Methodology:** Dashboard design, KPI analysis, trend visualization  
+- **[Project Link](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
 
 
 <a name="health-wellness"></a>
@@ -71,5 +94,5 @@ If my work was helpful or inspiring, feel free to connect, follow, or support:
 - **[Project Link](https://github.com/Wilfrida-Were/Spotify-data-2023-EDA/blob/main/README.md)** 
 
  
-
+## More Projects Loading ...
 
