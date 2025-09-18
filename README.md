@@ -32,8 +32,6 @@ Feel free to connect, follow, or support:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Wilfrida-Were)  
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/)
-
 
 ## 📚 Table of Contents
 - [Retail & E-commerce](#retail-e-commerce)
