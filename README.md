@@ -35,13 +35,14 @@ Feel free to connect, follow, or support:
 
 ## 📚 Table of Contents
 - [Retail & E-commerce](#retail-e-commerce)
+- [Telecommunications](#telecommunications)
 - [HR & Workforce](#hr-workforce)
 - [Health & Wellness](#health-wellness)
 - [Entertainment & Media](#entertainment-media)
 
 
 <a name="retail-e-commerce"></a>
-## 🛍️ Retail & E-commerce
+## Retail & E-commerce
 
 ### **[Retail Sales EDA (SQL)](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-SQL/blob/main/README.md)**
 - **Goal:** Explore retail sales data and uncover key insights for business strategy.  
@@ -53,10 +54,20 @@ Feel free to connect, follow, or support:
 - **Goal:** Perform in-depth exploratory data analysis and visualizations on retail sales data.  
 - **Tools:** Python  
 - **Methodology:** EDA, data cleaning, visualization using Matplotlib & Seaborn  
-- **[Project Link](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)** 
+- **[Project Link](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)**
+
+
+<a name="telecommunications"></a>
+## Telecommunications
+
+### **[Telco Churn Predictive Analysis](https://github.com/Wilfrida-Were/Telco-Churn-Predictive-Analysis/blob/main/README.md)**
+- **Goal:** Predict churn in Telco customers and surface segment-level revenue risk, churn drivers, and retention opportunities for fast, founder-grade decision-making. 
+- **Tools:** Python, Supabase (PostgreSQL), DBT, Metabase (Fly.io), n8n (simulated orchestration)
+- **Methodology:** EDA, Correlation, Predictive Modelling, visualisation, workflow automation
+- **[Project Link](https://github.com/Wilfrida-Were/Telco-Churn-Predictive-Analysis/blob/main/README.md)**
 
 <a name="hr-workforce"></a>
-## 💼 HR & Workforce
+## HR & Workforce
 
 ### **[Tech Layoffs Data Cleaning (SQL)](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/README.md)**
 - **Goal:** Clean and prepare tech layoffs data for analysis to support HR decision-making.  
@@ -73,7 +84,7 @@ Feel free to connect, follow, or support:
 
 
 <a name="health-wellness"></a>
-## 🧠 Health & Wellness
+## Health & Wellness
 
 ### **[Mental Health EDA (Python)](https://github.com/Wilfrida-Were/Mental-Health-EDA/blob/main/README.md)**
 - **Goal:** Analyze mental health data to uncover trends and correlations for wellness programs.  
@@ -83,7 +94,7 @@ Feel free to connect, follow, or support:
 
 
 <a name="entertainment-media"></a>
-## 🎵 Entertainment & Media
+## Entertainment & Media
 
 ### **[Spotify Data 2023 EDA](https://github.com/Wilfrida-Were/Spotify-data-2023-EDA/blob/main/README.md)**
 - **Goal:** Explore Spotify listening trends and provide actionable insights for content strategy.  
