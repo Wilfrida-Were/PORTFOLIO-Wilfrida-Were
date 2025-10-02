@@ -35,20 +35,19 @@ Feel free to connect, follow, or support:
 
 ## 📚 Table of Contents
 - [Retail & E-commerce](#retail-e-commerce)
-- [Telecommunications](#telecommunications)
+  - [General Merchandise Retail](#general) 
+  - [Telecommunications Retail](#telecommunications)
 - [HR & Workforce](#hr-workforce)
 - [Health & Wellness](#health-wellness)
 - [Entertainment & Media](#entertainment-media)
 
 
+
 <a name="retail-e-commerce"></a>
 ## Retail & E-commerce
 
-### **[Retail Sales EDA (SQL)](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-SQL/blob/main/README.md)**
-- **Goal:** Explore retail sales data and uncover key insights for business strategy.  
-- **Tools:** SQL  
-- **Methodology:** EDA, reporting, aggregation, trend analysis  
-- **[Project Link](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-SQL/blob/main/README.md)**  
+<a name="general"></a>
+## General Merchandise Retail
 
 ### **[Retail Sales EDA (Python)](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)**
 - **Goal:** Perform in-depth exploratory data analysis and visualizations on retail sales data.  
@@ -57,8 +56,15 @@ Feel free to connect, follow, or support:
 - **[Project Link](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)**
 
 
+### **[Retail Sales EDA (SQL)](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-SQL/blob/main/README.md)**
+- **Goal:** Explore retail sales data and uncover key insights for business strategy.  
+- **Tools:** SQL  
+- **Methodology:** EDA, reporting, aggregation, trend analysis  
+- **[Project Link](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-SQL/blob/main/README.md)**  
+
+
 <a name="telecommunications"></a>
-## Telecommunications
+## Telecommunications Retail
 
 ### **[Telco Churn Predictive Analysis](https://github.com/Wilfrida-Were/Telco-Churn-Predictive-Analysis/blob/main/README.md)**
 - **Goal:** Predict churn in Telco customers and surface segment-level revenue risk, churn drivers, and retention opportunities for fast, founder-grade decision-making. 
