@@ -49,6 +49,12 @@ Feel free to connect, follow, or support:
 <a name="general"></a>
 ## General Merchandise Retail
 
+### **[Loyalty Segmentation for Retail Growth](https://github.com/Wilfrida-Were/Loyalty-Segmentation-for-Retail-Growth/blob/main/README.md)**
+- **Goal:** Segment, Quantify, and Act on Customer Loyalty.  
+- **Tools:** Python, Tableau  
+- **Methodology:** EDA, data cleaning, Correlation, RFM analysis, visualisation  
+- **[Project Link](https://github.com/Wilfrida-Were/Loyalty-Segmentation-for-Retail-Growth/blob/main/README.md)**
+
 ### **[Retail Sales EDA (Python)](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)**
 - **Goal:** Perform in-depth exploratory data analysis and visualizations on retail sales data.  
 - **Tools:** Python  
